@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Incident" max_length="40" name="x_78535_test_inc_test_incident" type="collection">
+        <element label="col1" max_length="80" name="col1" type="table_name"/>
+        <element label="col2" max_length="40" name="col2" type="boolean"/>
+    </element>
+</database>
