@@ -4,5 +4,6 @@
         <element label="col2" max_length="40" name="col2" type="boolean"/>
         <element label="col3" max_length="40" name="col3" type="string"/>
         <element label="col4" max_length="40" name="col4" type="integer"/>
+        <element label="col5" max_length="40" name="col5" type="glide_date"/>
     </element>
 </database>
