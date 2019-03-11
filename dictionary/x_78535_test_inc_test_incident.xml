@@ -3,5 +3,6 @@
         <element label="col1" max_length="80" name="col1" type="table_name"/>
         <element label="col2" max_length="40" name="col2" type="boolean"/>
         <element label="col3" max_length="40" name="col3" type="string"/>
+        <element label="col4" max_length="40" name="col4" type="integer"/>
     </element>
 </database>
